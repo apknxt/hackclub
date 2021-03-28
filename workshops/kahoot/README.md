@@ -4,7 +4,7 @@ description: 'A learning activity focused around the Kahoot API'
 author: '@sampoder'
 img: 'https://cloud-h0ul1djmv.vercel.app/0image.png'
 ---
-
+[Kahoot Hack Demo](https://apknxt.com/kahoot)
 Hey! This is an interactive activity for leaders to run with their clubs. 
 It takes them through the process of using the [`kahoot.js-updated` npm module](https://www.npmjs.com/package/kahoot.js-updated) 
 to control a Kahoot user with Node.js. The module is deprecated, but this workshop should still work.
